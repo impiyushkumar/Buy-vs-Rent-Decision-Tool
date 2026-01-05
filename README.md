@@ -34,7 +34,8 @@ The tool compares two scenarios over 20 years:
 - Interactive UI
 
 ## Screenshots
-![Image1](image.png) ![Image2](image-1.png)
+![summary](buy_vs_rent/image.png)
+![graph](buy_vs_rent/image-1.png)
 
 ## Disclaimer
 This tool is purely for educational purposes and does not provide financial advice.
