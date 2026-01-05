@@ -1,5 +1,9 @@
 # Buy vs Rent – Financial Decision Tool
 
+##Live Link
+🔗 Live App: https://your-streamlit-link.streamlit.app
+
+
 ## Problem Statement
 Buying a home vs renting is an emotional decision. This tool helps users make a
 data-driven choice by comparing long-term net worth outcomes.
