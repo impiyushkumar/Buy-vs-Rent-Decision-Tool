@@ -1,6 +1,6 @@
 # Buy vs Rent – Financial Decision Tool
 
-🔗 Live App: https://your-streamlit-link.streamlit.app
+🔗 Live App: https://buy-vs-rent-decision-tool.streamlit.app/
 
 
 ## Problem Statement
